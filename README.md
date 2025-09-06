@@ -4,7 +4,9 @@ Created by [Nico Aroca](https://github.com/tailsmonster)
 > Kronoscan is a local-first productivity app that combines a powerful calendar with flexible task and event management, designed to get you started instantly, with optional cloud sync for multi-device use.
 
 ---
+## 🎶 Vibes
 
+Listen to the Weatherscan's soundtrack while contributing to / using this. Track 27 is incredible.
 
 ## ⚡ MVP Goals
 
