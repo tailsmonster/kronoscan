@@ -1,3 +1,5 @@
+# Kronoscan
+![Kronoscan](https://github.com/tailsmonster/kronoscan/blob/main/documentation/logo.png?raw=true)
 
 Created by [Nico Aroca](https://github.com/tailsmonster)
 
