@@ -1,4 +1,4 @@
-# Kronoscan
+
 Created by [Nico Aroca](https://github.com/tailsmonster)
 
 > Kronoscan is a local-first productivity app that combines a powerful calendar with flexible task and event management, designed to get you started instantly, with optional cloud sync for multi-device use.
@@ -43,7 +43,7 @@ Kronoscan’s initial release will focus on:
 ## 📦 Project Structure
 ```
 Kronoscan/
-├── backend/ # .NET Web API for authentication and sync
+├── backend/ # PocketBase instance (schema, migrations, hooks)
 ├── web/ # React + TypeScript frontend
 ├── mobile/ # React Native mobile app (Expo)
 ├── shared/ # Shared TypeScript models and utilities
@@ -61,6 +61,7 @@ Kronoscan/
 - Create basic calendar UI with event CRUD  
 - Develop sync manager to push and pull changes from backend  
 - Add user registration and login flows  
+- Add a quick, sparse note-taking system for jotting down thoughts
 
 ---
 
