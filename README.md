@@ -20,3 +20,6 @@ Listen to the Weatherscan's soundtrack while contributing to / using this. Track
 
 - ## Status
 Early development. PC-focused. Architecture and features are evolving.
+
+- ## License
+  MIT
