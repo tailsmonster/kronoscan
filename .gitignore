@@ -1,1 +1,63 @@
-.idea
+# =========================
+# Node / frontend
+# =========================
+node_modules/
+dist/
+.vite/
+.next/
+out/
+
+# Env files (local secrets)
+.env
+.env.local
+.env.*.local
+
+# =========================
+# Tauri / Rust
+# =========================
+src-tauri/target/
+src-tauri/gen/
+src-tauri/.cargo-lock
+
+# Tauri build outputs
+target/
+bundle/
+*.deb
+*.rpm
+*.AppImage
+*.dmg
+*.exe
+
+# =========================
+# PocketBase (IMPORTANT)
+# =========================
+
+# PocketBase binary (any platform)
+pocketbase
+pocketbase.exe
+pocketbase_*
+
+# PocketBase runtime data
+pb_data/
+pb_migrations/
+pb_hooks/
+
+# Logs
+*.log
+
+# =========================
+# OS / editor junk
+# =========================
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# =========================
+# Misc
+# =========================
+*.tmp
+*.bak

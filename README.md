@@ -8,6 +8,9 @@
 ## 🎶
   Listen to the Weatherscan's soundtrack while contributing to / using this. Track 27 is incredible.
 
+## Dependancies
+- Pocketbase v0.36.0 (./backend/pocketbase)
+
 ## What it is
 - A desktop-first productivity tool
 - Local storage by default
