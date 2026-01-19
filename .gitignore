@@ -39,8 +39,8 @@ pocketbase_*
 
 # PocketBase runtime data
 pb_data/
-pb_migrations/
-pb_hooks/
+# pb_migrations/
+# pb_hooks/
 
 # Logs
 *.log
